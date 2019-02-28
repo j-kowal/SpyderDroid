@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- "Mark Favorite", should appear as action button if possible -->
+    <item
+        android:id="@+id/action_temp"
+        android:icon="@drawable/ic_thermometer"
+        android:title="@string/menu_temp"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_ranger"
+        android:icon="@drawable/ic_radar"
+        android:title="@string/menu_ranger"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_light"
+        android:icon="@drawable/ic_bulb"
+        android:title="@string/menu_light"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_sound"
+        android:icon="@drawable/ic_speaker"
+        android:title="@string/menu_sound"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_rgb"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/menu_lcd"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_msg"
+        android:icon="@drawable/ic_paper_plane"
+        android:title="@string/menu_msg"
+        app:showAsAction="always"/>
+
+
+</menu>

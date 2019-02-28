@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SpyderDroid</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="temp_header">Temperature Sensor</string>
+    <string name="light_header">Light Sensor</string>
+    <string name="sound_header">Environment Sound Strength</string>
+    <string name="ranger_header">Ultrasonic Ranger Sensor</string>
+    <string name="ranger_distance_header">Distance Alarm Threshold</string>
+    <string name="ranger_distance">0</string>
+    <string name="ranger_distance_desc">Distance:</string>
+    <string name="menu_temp">Temperature</string>
+    <string name="menu_ranger">Distance Ranger</string>
+    <string name="menu_light">Light</string>
+    <string name="menu_sound">Sound</string>
+    <string name="menu_msg">Send Message</string>
+    <string name="menu_lcd">Change LCD RGB</string>
+    <string name="robber">Robber image</string>
+    <string name="msg_cur_lbl">Current Message:</string>
+    <string name="msg_new_lbl">New Message:</string>
+    <string name="msg_send">Send</string>
+    <string name="msg_hint">Type your message...</string>
+    <string name="rgb_txt">Screen RGB values</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
